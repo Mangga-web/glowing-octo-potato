@@ -1,0 +1,10 @@
+{
+  "name": "glowing-octo-potato-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight integrated search, mail, and tools workspace",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
